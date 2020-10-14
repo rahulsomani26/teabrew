@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "388616148322",
+    "firebase_url": "https://teabrew-832c3.firebaseio.com",
+    "project_id": "teabrew-832c3",
+    "storage_bucket": "teabrew-832c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388616148322:android:4d9bc4b70ed0366ce5c83b",
+        "android_client_info": {
+          "package_name": "com.example.TeaBrew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388616148322-3cdvd1hf1g3tt99eavv4e8glb1fd7vq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyEyCJVl43boInOMskHCVAuAV-TN1PF3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388616148322-3cdvd1hf1g3tt99eavv4e8glb1fd7vq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
